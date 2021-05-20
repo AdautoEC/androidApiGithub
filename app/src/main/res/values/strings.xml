@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Github Issues</string>
+    <string name="item_description_btn">Go to page</string>
+
+    <string name="error_msg_issue_api_call">Error: Not connected to internet</string>
+
+    <string name="tag_api_service">--ApiService</string>
+    <string name="tag_issue_api_call">---issueApiCall</string>
+</resources>
